@@ -1,6 +1,7 @@
 {
   "name": "kumarsaurabhraj",
   "version": "0.1.0",
+  "homepage": "https://ksraj123.github.io/cv_website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
